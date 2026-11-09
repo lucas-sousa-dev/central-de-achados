@@ -60,3 +60,11 @@ O site carrega esse JSON a cada abertura. Para a Central de Notícias reutilizar
 
 ## Observações
 A Central de Achados é uma vitrine independente de afiliados. Marcas e plataformas citadas pertencem aos respectivos titulares. Preços, frete e disponibilidade são definidos pelos vendedores.
+
+## Envio simplificado por link (2026-11-08)
+- Foi adicionado à página inicial um campo **Envie um achado com apenas um link**.
+- O usuário cola o link de afiliado e toca em **Copiar para enviar**; o texto fica pronto para colar na conversa com o Jarvis.
+- **Importante:** essa ação NÃO publica o produto automaticamente nem envia dados a servidores. O cadastro é feito posteriormente pelo assistente após conferir os dados possíveis e atualizar `data/products.json` no GitHub.
+- O site aceita links HTTPS de domínios conhecidos do Mercado Livre e Shopee; a validação de domínio não comprova que o link gera comissão.
+- As imagens oficiais continuam pendentes até a identificação exata do anúncio e de uma fonte autorizada. Não substituir por imagem de produto semelhante.
+- Não foi implementada coleta automática de páginas externas no navegador: links curtos e políticas de acesso podem impedir extração confiável de metadados.
