@@ -99,6 +99,17 @@
       "image": null,
       "price": null,
       "verified": false
+    },
+    {
+      "id": "ml-10",
+      "title": "Creatina Monohidratada 1 kg 100% Pura — Dark Lab",
+      "category": "Saúde e Bem-estar",
+      "url": "https://meli.la/2zkzWs4",
+      "icon": "dumbbell",
+      "store": "Mercado Livre",
+      "image": null,
+      "price": null,
+      "verified": false
     }
   ]
 }
