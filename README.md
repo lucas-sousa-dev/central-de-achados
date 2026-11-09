@@ -68,3 +68,5 @@ A Central de Achados é uma vitrine independente de afiliados. Marcas e platafor
 - O site aceita links HTTPS de domínios conhecidos do Mercado Livre e Shopee; a validação de domínio não comprova que o link gera comissão.
 - As imagens oficiais continuam pendentes até a identificação exata do anúncio e de uma fonte autorizada. Não substituir por imagem de produto semelhante.
 - Não foi implementada coleta automática de páginas externas no navegador: links curtos e políticas de acesso podem impedir extração confiável de metadados.
+
+- 2026-11-08: cadastrado produto **Creatina Monohidratada Dark Lab 1 kg**, identificado a partir de print do compartilhamento no WhatsApp. Link de afiliado confirmado pelo usuário. A imagem do print não foi publicada no repositório, pois o conector disponível permite apenas gravação de arquivos de texto; imagem oficial ainda pendente.
