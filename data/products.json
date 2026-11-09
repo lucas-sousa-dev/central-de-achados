@@ -1,0 +1,104 @@
+{
+  "updatedAt": "2026-11-08",
+  "products": [
+    {
+      "id": "ml-1",
+      "title": "Whey Isolate Protein Fuse 900 g — Dark Lab",
+      "category": "Saúde e Bem-estar",
+      "url": "https://meli.la/1jzvzZZ",
+      "icon": "dumbbell",
+      "store": "Mercado Livre",
+      "image": null,
+      "price": null,
+      "verified": false
+    },
+    {
+      "id": "ml-2",
+      "title": "Tênis Puma Carina Street",
+      "category": "Moda e Calçados",
+      "url": "https://meli.la/1JyoN4y",
+      "icon": "footprints",
+      "store": "Mercado Livre",
+      "image": null,
+      "price": null,
+      "verified": false
+    },
+    {
+      "id": "ml-3",
+      "title": "Motorola Moto G06 64 GB",
+      "category": "Eletrônicos",
+      "url": "https://meli.la/12U18oP",
+      "icon": "smartphone",
+      "store": "Mercado Livre",
+      "image": null,
+      "price": null,
+      "verified": false
+    },
+    {
+      "id": "ml-4",
+      "title": "Tapete Felpudo Cinza 2,00 × 1,50 m",
+      "category": "Casa e Decoração",
+      "url": "https://meli.la/27jwJAY",
+      "icon": "house",
+      "store": "Mercado Livre",
+      "image": null,
+      "price": null,
+      "verified": false
+    },
+    {
+      "id": "ml-5",
+      "title": "Jogo de Lençol Queen 400 Fios — 3 Peças",
+      "category": "Casa e Decoração",
+      "url": "https://meli.la/14CcJJn",
+      "icon": "bed",
+      "store": "Mercado Livre",
+      "image": null,
+      "price": null,
+      "verified": false
+    },
+    {
+      "id": "ml-6",
+      "title": "Kit 5 Peças All Black Dry",
+      "category": "Moda e Calçados",
+      "url": "https://meli.la/192B9tJ",
+      "icon": "shirt",
+      "store": "Mercado Livre",
+      "image": null,
+      "price": null,
+      "verified": false
+    },
+    {
+      "id": "ml-7",
+      "title": "Quasar Blue Desodorante Colônia 100 ml",
+      "category": "Beleza",
+      "url": "https://meli.la/1xNFGWh",
+      "icon": "sparkles",
+      "store": "Mercado Livre",
+      "image": null,
+      "price": null,
+      "verified": false
+    },
+    {
+      "id": "ml-8",
+      "title": "Fechadura Digital Intelbras FD1000",
+      "category": "Casa e Decoração",
+      "url": "https://meli.la/2AueXfe",
+      "icon": "lock",
+      "store": "Mercado Livre",
+      "image": null,
+      "price": null,
+      "verified": false
+    },
+    {
+      "id": "ml-9",
+      "title": "Havaianas Top Max Comfort",
+      "category": "Moda e Calçados",
+      "url": "https://meli.la/2rjzTJX",
+      "icon": "footprints",
+      "store": "Mercado Livre",
+      "image": null,
+      "price": null,
+      "verified": false
+    }
+  ]
+}
