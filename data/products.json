@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-09",
   "products": [
+    {
+      "id": "ml-campainha-cib101s",
+      "title": "Campainha Sem Fio Intelbras CIB 101S com Bateria — Preta",
+      "category": "Casa e Decoração",
+      "url": "https://meli.la/1629GT9",
+      "icon": "bell",
+      "store": "Mercado Livre",
+      "image": null,
+      "price": null,
+      "verified": false
+    },
     {
       "id": "ml-1",
       "title": "Whey Isolate Protein Fuse 900 g — Dark Lab",
