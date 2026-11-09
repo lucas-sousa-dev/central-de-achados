@@ -70,3 +70,5 @@ A Central de Achados é uma vitrine independente de afiliados. Marcas e platafor
 - Não foi implementada coleta automática de páginas externas no navegador: links curtos e políticas de acesso podem impedir extração confiável de metadados.
 
 - 2026-11-08: cadastrado produto **Creatina Monohidratada Dark Lab 1 kg**, identificado a partir de print do compartilhamento no WhatsApp. Link de afiliado confirmado pelo usuário. A imagem do print não foi publicada no repositório, pois o conector disponível permite apenas gravação de arquivos de texto; imagem oficial ainda pendente.
+
+- 2026-11-08: incluído **Baú Traseiro ABS 45 L com encosto**, cor preta, categoria Automotivo e Motopeças, a partir de print do anúncio e link de afiliado `https://meli.la/14uGzgk`. Preço de R$ 340,90 e comissão de 12% eram apenas os valores mostrados no print; não são exibidos como valores atuais. Imagem original ainda pendente.
